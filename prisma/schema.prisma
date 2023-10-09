@@ -73,3 +73,4 @@ model Review {
   @@index([productId])
   @@index([userId])
 }
+sad
